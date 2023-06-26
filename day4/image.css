@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+}
+.B:hover{
+    width: 300px;
+    height: 300px;
+    rotate: 360deg;
+    transition: 1s;
+
+}
+.c{
+    font-size: 30px;
+}
+.d:hover{
+    width: 300px;
+    height: 300px;
+    color: black;
+}
